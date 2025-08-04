@@ -51,7 +51,7 @@ The system follows a layered architecture pattern with clear separation of conce
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mahendrakarr_Zeta/payment-management-system.git
+git clone https://github.com/akhilesh852/Payment-Management-System.git
 cd payment-management-system
 ```
 ### 2. Configure Database Connection 
