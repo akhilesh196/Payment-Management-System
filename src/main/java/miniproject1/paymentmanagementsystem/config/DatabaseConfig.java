@@ -11,7 +11,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 public class DatabaseConfig {
-    private static final String PROPERTIES_FILE = "/database.properties";
+    private static final String PROPERTIES_FILE = "/application.properties";
     private static DatabaseConfig instance;
     private final Properties properties;
     private final BlockingQueue<Connection> connectionPool;
